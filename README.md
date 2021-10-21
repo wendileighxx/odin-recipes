@@ -1,1 +1,1 @@
-Hello! This is my first project at TOP, I will be showcasing family recipes.
+Hello! This is my first project at TOP, I will be showcasing yummy dessert recipes.
