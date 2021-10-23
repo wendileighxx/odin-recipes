@@ -1,0 +1,53 @@
+body{
+    background-color: lightgray;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+}
+
+.container{
+    width: 45%;
+    margin: auto;
+}
+
+.box{
+    border: red double 5px;
+    margin: auto;
+    margin-top: 40px;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+.list{
+    border:red dotted 3px;
+    margin-top: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.list ul{
+    list-style: square;
+    padding: 0;
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.list li{
+    padding-bottom:5px;
+    
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+a:hover{
+    color: red;
+}

@@ -1,0 +1,78 @@
+body{
+    background-color: lightgray;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin:auto;
+}
+
+.container{
+    width:45%;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.box1{
+    border: red double 5px;
+    margin: auto;
+    margin-top: 40px;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.cooking{
+    border:red dotted 3px;
+    margin-top: 30px;
+    font-size: large;
+}
+
+.box1 h2{
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.box1 h4{
+    text-align: left;
+    font-size: large;
+    padding-left: 20px;
+}
+
+a{
+   
+    padding-left: 50px;
+    padding-bottom: 35px;
+    margin: 0;
+    padding-top: 20px;
+}
+
+.cooking ul{
+    list-style: square;
+    padding: 0;
+    margin-left: 40px;
+}
+
+.cooking h2{
+    padding-left: 40px;
+    font-style: italic;
+    text-decoration: underline;
+    
+}
+
+.cooking ol{
+    margin-left: 15px;
+}
+
+.cooking li{
+    font-size: large;
+    font-weight: bold;
+
+}
